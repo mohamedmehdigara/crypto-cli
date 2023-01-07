@@ -51,6 +51,6 @@
 		"eslint-plugin-react": "^7.30.0",
 		"eslint-plugin-react-hooks": "^4.6.0",
 		"ink-testing-library": "^2.1.0",
-		"xo": "^0.39.1"
+		"xo": "^0.53.1"
 	}
 }
